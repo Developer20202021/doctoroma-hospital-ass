@@ -1,0 +1,28 @@
+
+.doctor-image img{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+.doctor-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.doctor-image-container{
+    border: 3px solid whitesmoke;
+    width: 250px;
+    height: 350px;
+    padding: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+
+}
+.doctor-image-container:hover{
+
+    background-color: #0F2B51;
+    color: whitesmoke;
+
+}

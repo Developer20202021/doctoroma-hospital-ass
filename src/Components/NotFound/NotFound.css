@@ -1,0 +1,28 @@
+.not-found-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 200px;
+}
+
+.homePageBtn button{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(248, 82, 22);
+    border: none;
+    outline: none;
+    color: whitesmoke;
+    font-size: 19px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.homePageBtn button:hover{
+
+    background-color: rgb(243, 117, 71);
+}
+
+.homePageBtn{
+    margin-top: 60px;
+}

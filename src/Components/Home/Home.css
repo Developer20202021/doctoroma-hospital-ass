@@ -1,0 +1,75 @@
+
+.slide-image-container img{
+    width: 100vw;
+    height: 500px;
+}
+.slide-image-container{
+    position: relative;
+}
+.slide-title{
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    font-size: 40px;
+    font-weight: 900;
+    color: #0F2B51;
+
+}
+.homeServiceHeader {
+    color:  #0F2B51;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.homeServiceHeader{
+    margin-top: 100px;
+}
+
+
+
+
+.serviceBorder hr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid tomato; 
+    width: 100px;
+    
+
+}
+
+.services{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 60px;
+    text-align: left;
+    row-gap: 70px;
+    column-gap: 50px;
+}
+
+.all-services{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.doctor-in-home{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+    margin-top: 100px;
+}
+
+.doctors-section-home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.doctors-section-home{
+    margin-bottom: 100px;
+}

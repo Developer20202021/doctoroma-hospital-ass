@@ -1,0 +1,242 @@
+[
+    {   "id": "1",
+		"serviceName": "Nephrologist Care",
+		"serviceFee": "$60.76",
+		"email": "mattis@vestibulumnequesed.com",
+		"serviceDescription": "Neurology is the branch of medicine concerned with the study and treatment of disorders of the nervous system. The nervous system is a complex, sophisticated system that regulates and coordinates body activities. It has two major divisions: Central nervous system: the brain and spinal cord.",
+		"imageUrl": "https://img.freepik.com/free-photo/specialist-neurologist-doctor-taking-notes-laptop-asking-patient-s-symptoms-adjusting-high-tech-eeg-headset-doctor-researcher-controlling-eeg-headset-analyzing-brain-functions-health-status_482257-16448.jpg?size=338&ext=jpg",
+		
+		"teamMember": [
+            {
+                "name":"Dr.Verdina sing",
+                "doctorImage":"https://image.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg",
+                "spaciality":"Nephrologist Specialist"
+            },
+
+            {
+                "name":"Dr.Zinus Shen",
+                "doctorImage":"https://image.freepik.com/free-photo/medium-shot-doctor-with-stethoscope_23-2148872974.jpg",
+                "spaciality":"Nephrologist Specialist"
+            }
+        ]
+
+    },
+
+
+
+
+
+    {   "id": "2",
+		"serviceName": "Pediatrician Clinic",
+		"serviceFee": "$50.00",
+		"email": "mattis@vestibulumnequesed.com",
+		"serviceDescription": "Paediatrics (also spelled pediatrics or pædiatrics) is the branch of medicine that involves the medical care of infants, children, and adolescents. The American Academy of Pediatrics recommends people seek pediatric care through the age of 21.[1][2] In the United Kingdom, paediatrics covers patients until age 18.[3] Worldwide age limits of pediatrics have been trending up year over year.[4] A medical doctor who specializes in this area is known as a pediatrician, or paediatrician. The word pediatrics and its cognates mean",
+		"imageUrl": "https://image.freepik.com/free-photo/child-docto-rs-office_1098-19672.jpg",
+		
+		"teamMember": [
+            {
+                "name":"Dr.Nel Patel",
+                "doctorImage":"https://image.freepik.com/free-photo/portrait-cheerful-young-medical-doctor-with-stethoscope-smiling-standing-wth-arms-crossed-isolated-white-wall_171337-99769.jpg",
+                "spaciality":" Pediatrician "
+            },
+
+            {
+                "name":"Dr.Oshok Roy",
+                "doctorImage":"https://image.freepik.com/free-photo/medium-shot-smiley-man-wearing-coat_23-2148816193.jpg",
+                "spaciality":" Pediatrician "
+            }
+        ]
+
+    },
+
+
+
+
+
+
+    
+    {   "id": "3",
+		"serviceName": "Gyn and Obs Care",
+		"serviceFee": "$60.00",
+		"email": "mattis@vestibulumnequesed.com",
+		"serviceDescription": "Share on Pinterest An OB-GYN specializes in both obstetrics and gynecology. AN OB-GYN is a doctor who has broad and specific training in obstetrics and gynecology. OB-GYNs provide a wide range of preventive care services, including pap smears, STI testing, pelvic exams, ultrasounds, and blood work.",
+		"imageUrl": "https://image.freepik.com/free-vector/gynecology-consultation-illustration_23-2148653151.jpg",
+		
+		"teamMember": [
+            {
+                "name":"Dr.Peter Son",
+                "doctorImage":"https://image.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
+                "spaciality":"Gynecologist"
+            },
+
+
+            {
+                "name":"Dr.Neila Khan",
+                "doctorImage":"https://image.freepik.com/free-photo/medium-shot-smiley-doctor-with-coat_23-2148814212.jpg",
+                "spaciality":"Gynecologist"
+            }
+        ]
+
+    },
+
+
+
+
+      
+    {   "id": "4",
+		"serviceName": "Eye Care",
+		"serviceFee": "$70.00",
+		"email": "mattis@vestibulumnequesed.com",
+		"serviceDescription": "The eye is our organ of sight. The eye has a number of components which include but are not limited to the cornea, iris, pupil, lens, retina, macula, optic nerve, choroid and vitreous. Cornea: clear front window of the eye that transmits and focuses light into the eye.",
+		"imageUrl": "https://image.freepik.com/free-photo/child-eye-test-eye-exam-little-girl-having-eye-check-up-with-phoropter-doctor-performs-eye-test-child_1157-41952.jpg",
+		
+		"teamMember": [
+            {
+                "name":"Dr.Kabir Hasan",
+                "doctorImage":"https://image.freepik.com/free-photo/hospital-healthcare-workers-covid-19-treatment-concept-young-doctor-scrubs-making-daily-errands-clinic-listening-patient-symptoms-look-camera-professional-physician-curing-diseases_1258-57233.jpg",
+                "spaciality":"Ophthalmologist "
+            },
+
+
+
+
+            {
+                "name":"Dr.Peter Mosh",
+                "doctorImage":"https://image.freepik.com/free-photo/happy-doctor-holding-clipboard-with-patients_1098-2176.jpg",
+                "spaciality":"Ophthalmologist "
+            }
+        ]
+
+    },
+
+
+
+
+
+    {   "id": "5",
+		"serviceName": "Radiology Clinic",
+		"serviceFee": "$100.00",
+		"email": "mattis@vestibulumnequesed.com",
+		"serviceDescription": "Radiology is a branch of medicine that uses imaging technology to diagnose and treat disease. Radiology may be divided into two different areas, diagnostic radiology and interventional radiology. Doctors who specialize in radiology are called radiologists.",
+		"imageUrl": "https://img.freepik.com/free-photo/portrait-doctor_144627-39413.jpg?size=338&ext=jpg",
+		
+		"teamMember": [
+            {
+                "name":"Dr.Herik Son",
+                "doctorImage":"https://image.freepik.com/free-photo/hospital-healthcare-workers-covid-19-treatment-concept-young-doctor-scrubs-making-daily-errands-clinic-listening-patient-symptoms-look-camera-professional-physician-curing-diseases_1258-57233.jpg",
+                "spaciality":"Radiologist"
+            },
+
+
+            {
+                "name":"Dr.Howrad Stern",
+                "doctorImage":"https://image.freepik.com/free-photo/medicine-healthcare-coronavirus-concept-focused-female-doctor-taking-notes-checkup-patient-li_1258-69502.jpg",
+                "spaciality":"Radiologist"
+            }
+        ]
+
+    },
+
+
+
+
+    {   "id": "6",
+		"serviceName": "Cardiologist Care",
+		"serviceFee": "$80.00",
+		"email": "mattis@vestibulumnequesed.com",
+		"serviceDescription": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist. Cardiology is a branch of internal medicine. ... A cardiologist specializes in diagnosing and treating diseases of the cardiovascular system.",
+		"imageUrl": "https://image.freepik.com/free-photo/heart-banner-cardiac-technology_53876-104942.jpg",
+		
+		"teamMember": [
+            {
+                "name":"Dr.Howrad Stern",
+                "doctorImage":"https://image.freepik.com/free-photo/confident-dentist-stomatology-cabinet-with-orange-equiptment-wearing-dental-uniform-medical-specialist-oral-hygiene-wearing-lab-coat-looking-camera-dentistry-office_482257-16216.jpg",
+                "spaciality":"Cardiologist"
+            },
+
+
+
+            {
+                "name":"Dr.Justin Beckham",
+                "doctorImage":"https://doctery-demo.themesion.com/demo1/wp-content/uploads/sites/2/2020/01/team-01-770x770.jpg",
+                "spaciality":"Cardiologist"
+            }
+        ]
+
+    },
+
+
+
+
+
+    {   "id": "7",
+		"serviceName": "Gastrologist Care",
+		"serviceFee": "$90.00",
+		"email": "mattis@vestibulumnequesed.com",
+		"serviceDescription": "Gastroenterology is the branch of medicine focused on the digestive system and its disorders. Diseases affecting the gastrointestinal tract, which include the organs from mouth into anus, along the alimentary canal, are the focus of this speciality. Physicians practicing in this field are called gastroenterologists.",
+		"imageUrl": "https://as2.ftcdn.net/v2/jpg/00/40/95/67/500_F_40956732_UWvRGj8KWKOpSt0UafdXl5gtbNhWH3ic.jpg",
+		
+		"teamMember": [
+            {
+                "name":"Dr.Smit Sen",
+                "doctorImage":"https://image.freepik.com/free-photo/portrait-doctor_144627-39390.jpg",
+                "spaciality":"Gastrologist"
+            },
+
+
+            {
+                "name":"Dr.Jennifer Winds",
+                "doctorImage":"https://image.freepik.com/free-photo/female-doctor-hospital-with-stethoscope_23-2148827775.jpg",
+                "spaciality":"Gastrologist"
+            }
+
+
+
+
+        ]
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+
+

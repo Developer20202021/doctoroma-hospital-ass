@@ -1,0 +1,81 @@
+
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: whitesmoke;
+    text-align: justify;
+    padding-top:50px;
+    /* padding-bottom: 50px; */
+}
+
+
+.footer{
+    background-color: #0F2B51;
+}
+
+.street{
+    width: 200px;
+}
+.footer-sub-title{
+    width: 300px;
+}
+
+.footer-location{
+    display: flex;
+    margin-right: 30px;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+}
+
+
+
+
+.subscribe-form input[type='text'], .subscribe-form input[type='email']{
+    border: none;
+    outline: none;
+    width: 300px;
+    margin-bottom: 30px;
+
+    height: 50px;
+
+}
+
+
+.subscribe-form input[type='text']::placeholder, .subscribe-form input[type='email']::placeholder{
+
+    font-size: 17px;
+    padding-left: 10px;
+}
+
+.subscribe-btn button{
+    width: 300px;
+    height: 50px;
+    outline: none;
+    border: none;
+    background-color: tomato;
+    font-size: 17px;
+    color: whitesmoke;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.subscribe-btn button:hover{
+        background-color: rgba(255, 99, 71, 0.61);
+}
+
+.subscribe h3{
+    font-size: 30px;
+}
+
+.copyright p{
+    color: whitesmoke;
+    padding: 30px;
+}
+
+hr{
+    margin-top: 40px;
+}
